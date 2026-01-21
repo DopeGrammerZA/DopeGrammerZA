@@ -39,5 +39,5 @@ Junior Software Developer & DevOps Engineer Intern based in South Africa 🇿�
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: https://www.linkedin.com/in/kagiso-masebe-982383228/
 - Email: kagisomasebe98@gmail.com
